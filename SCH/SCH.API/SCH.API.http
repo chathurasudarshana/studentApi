@@ -1,0 +1,6 @@
+@SCH.API_HostAddress = http://localhost:5082
+
+GET {{SCH.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
